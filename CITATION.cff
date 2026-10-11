@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Se este software for útil, cite-o como abaixo."
+title: "automacao-fatec"
+type: software
+license: MIT
+version: 0.1.0
+date-released: 2026-10-11
+authors:
+  - family-names: Leite
+    given-names: Pedro Henrique Cabral
+repository-code: "https://github.com/pedrohl45/automacao-fatec"

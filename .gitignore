@@ -1,0 +1,20 @@
+# Segredos e credenciais (nunca versionar)
+credentials.json
+token.json
+config.toml
+.env
+
+# Perfil do navegador usado pelo Playwright (cookies e sessão da conta)
+teams_session/
+
+# Ambiente e artefatos de build
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.coverage

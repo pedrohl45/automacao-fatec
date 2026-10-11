@@ -1,0 +1,16 @@
+drive_folder_id = "ID_DA_PASTA_NO_DRIVE"
+
+credentials_file = "credentials.json"
+token_file = "token.json"
+session_dir = "teams_session"
+token_wait_seconds = 180
+token_settle_seconds = 20
+
+[courses]
+"Algoritmos" = "00000000-0000-0000-0000-000000000000"
+"Banco de Dados" = "00000000-0000-0000-0000-000000000000"
+
+[calendar]
+event_duration_hours = 2
+color_id = "11"
+reminders_minutes = [1440, 120]
